@@ -45,3 +45,4 @@ function getPokemonGeneration(pokemonId) {
     if (pokemonId <= 721) return 6;
     if (pokemonId <= 809) return 7;
     return 8;
+}
